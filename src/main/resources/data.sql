@@ -1,0 +1,15 @@
+-- Insert authors
+--INSERT INTO authors (id, first_name, last_name, birth_date)
+--VALUES (1, 'John', 'Doe', '1980-01-01');
+
+---- Insert genres
+--INSERT INTO genres (id, name)
+--VALUES (1, 'Fiction');
+--
+---- Insert publishers
+--INSERT INTO publishers (id, name, address, contact_number)
+--VALUES (1, 'ABC Publisher', '123 Main St', '123-456-7890');
+--
+---- Insert books
+--INSERT INTO books (isbn, title, publication_date, author_id, publisher_id, genre_id)
+--VALUES ('1234567890', 'Sample Book', '2022-01-01', 1, 1, 1);
